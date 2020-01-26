@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">New_try.v.1.0</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_domain">Enter Domain</string>
+    <string name="enter_subject">Enter Subject</string>
+    <string name="register">Register</string>
+    <string name="sample">Sample</string>
+    <string name="number">number</string>
+    <string name="domain">domain</string>
+
+    <string name="search">Search</string>
+    <string name="search_teacher">Search Teacher</string>
+    <string name="register_as_a_teacher">Register as a Teacher</string>
+    <string name="enter_ph_no">Enter Ph. No.</string>
+    <string name="enter_address">Enter Address</string>
+</resources>

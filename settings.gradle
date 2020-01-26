@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='New_try.v.1.0'
